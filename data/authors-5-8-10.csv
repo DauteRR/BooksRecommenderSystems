@@ -1,0 +1,904 @@
+,author_id,name
+1,626222,Anita Diamant
+3,9212,Jennifer Weiner
+13,27397,Benjamin Hoff
+24,3389,Stephen King
+27,50873,L.J. Smith
+46,1265,Jane Austen
+51,16667,Isaac Asimov
+53,1455,Ernest Hemingway
+98,123715,Agatha Christie
+103,1938,Friedrich Nietzsche
+155,4018722,Beth Revis
+162,843200,Oliver Sacks
+201,6466154,Kahlil Gibran
+206,370361,Patrick Ness
+227,8164,Lewis Carroll
+258,3137322,Fyodor Dostoyevsky
+259,69892,Constance Garnett
+271,854076,Robert Louis Stevenson
+277,3354,Haruki Murakami
+309,12504,Karin Slaughter
+322,669810,Jeaniene Frost
+420,2905297,Lauren Kate
+454,21911,Melissa de la Cruz
+470,7581,Kelley Armstrong
+477,281810,Jojo Moyes
+503,2383,Gillian Flynn
+512,1026791,Carrie Brownstein
+583,6474348,Pierce Brown
+611,5158478,Anonymous
+677,17015,P.C. Cast
+678,17010,Kristin Cast
+690,7340907,Sui Ishida
+698,570218,Dalai Lama XIV
+701,569269,Jay Asher
+719,3706,George Orwell
+720,1194,Richard Dawkins
+774,38550,Brandon Sanderson
+825,1020792,Antoine de Saint-Exupery
+846,4562483,Sylvain Reynard
+893,1244,Mark Twain
+917,1461,Gustave Flaubert
+959,5194,Michael Crichton
+965,4191,Emily Bronte
+967,865,Robert Greene
+968,12331,Joost Elffers
+979,1654,Terry Pratchett
+993,346732,George R.R. Martin
+1004,2448,Arthur Conan Doyle
+1016,7128,Jodi Picoult
+1017,880695,H.G. Wells
+1022,656983,J.R.R. Tolkien
+1037,1330292,Maggie Stiefvater
+1102,6252,Robert Jordan
+1123,24758,Margaret Jull Costa
+1140,9226,William Gibson
+1187,589,Orson Scott Card
+1192,142270,Lev Grossman
+1213,6765,Virginia Woolf
+1221,4476934,Jennifer L. Armentrout
+1227,133538,Christopher McDougall
+1261,3780,James Patterson
+1302,3319233,Phil Knight
+1305,2728589,Chris Kyle
+1306,4998149,Scott McEwen
+1307,2988,Jim DeFelice
+1325,7799,Nathaniel Hawthorne
+1369,585,John Steinbeck
+1393,8347,Garth Nix
+1394,4039811,Veronica Roth
+1395,7770873,Sabaa Tahir
+1397,4600197,Renee Ahdieh
+1409,169377,Seth Grahame-Smith
+1465,6989,Rudyard Kipling
+1532,23613,Emma Donoghue
+1549,1476,Doris Kearns Goodwin
+1550,315737,Suzanne Toren
+1555,4379,Sylvia Plath
+1571,6492,Francine Rivers
+1582,106,Madeleine L'Engle
+1585,1462,Julian Barnes
+1628,221559,Jeff Kinney
+1638,3064305,Hugh Howey
+1639,2345,Nicholas Sparks
+1678,20248,J.R. Ward
+1686,1588088,Maria Semple
+1786,5031312,Dante Alighieri
+1795,2849,David Sedaris
+1833,205,Robert A. Heinlein
+1834,2987125,Kiera Cass
+1860,1401,Stephen Hawking
+1887,86404,E.M. Forster
+1916,18015,Joss Whedon
+1942,6331,Anne Perry
+2082,4,Douglas Adams
+2090,6542440,Elif Shafak
+2091,3402862,mHmd drwysh
+2092,6517464,lyf shfq
+2118,239579,Charles Dickens
+2151,1630,Ray Bradbury
+2155,4725841,E.L. James
+2166,7579036,Becky Albertalli
+2170,58851,Hilary Mantel
+2209,4167378,Samantha Young
+2268,696805,Jules Verne
+2273,6876,Kim Edwards
+2321,5548,Simone de Beauvoir
+2335,569,Khaled Hosseini
+2349,2987,Sarah Dessen
+2356,276660,Joe Abercrombie
+2387,3362,Eric Carle
+2401,15905,Thomas Hardy
+2445,324620,Laini Taylor
+2496,1214964,Ta-Nehisi Coates
+2520,1221698,Neil Gaiman
+2552,3565,Oscar Wilde
+2599,7116,Cecelia Ahern
+2632,15873,Cornelia Funke
+2636,1025097,Patricia Cornwell
+2645,947,William Shakespeare
+2674,4464118,Jamie McGuire
+2696,18,Gary Paulsen
+2881,22018,Mervyn Peake
+2890,17061,Charlaine Harris
+2939,1036615,Charlotte Bronte
+2981,1977,Tite Kubo
+3061,24678,Robin S. Sharma
+3082,9013543,Ruth Ware
+3090,3128534,Hablot Knight Browne
+3110,36746,Lemony Snicket
+3294,4637539,Tahereh Mafi
+3316,3472,Margaret Atwood
+3347,18479,Margaret Wise Brown
+3432,57085,Ernest H. Shepard
+3475,1315,Louisa May Alcott
+3517,11503,Patrick Lencioni
+3564,15481463,William Paul Young
+3589,5132,Kate Chopin
+3595,15151,Zora Neale Hurston
+3598,5223,Franz Kafka
+3602,13450,Gabriel Garcia Marquez
+3612,4624490,Edgar Allan Poe
+3617,128382,Leo Tolstoy
+3619,7380,Alice Walker
+3621,15435,William Carlos Williams
+3630,153394,Suzanne Collins
+3692,811,Yann Martel
+3704,7779,Arthur C. Clarke
+3723,45922,Lionel Shriver
+3808,11654,Meg Cabot
+3818,1377,Raymond Chandler
+3827,3534,Toni Morrison
+3861,988142,E.B. White
+3883,5869,Erik Larson
+3979,3351454,Morgan Matson
+4011,7306,Jay Rubin
+4012,403782,Philip Gabriel
+4063,706255,Stieg Larsson
+4072,1424397,Radwa Ashour
+4073,1446194,rDw~ `shwr
+4074,6485178,Fredrik Backman
+4075,3363844,Henning Koch
+4126,4698899,Hiromu Arakawa
+4135,1063732,Paula Hawkins
+4162,879,Plato
+4250,4037220,Miguel de Cervantes Saavedra
+4302,18149,Tess Gerritsen
+4331,1077326,J.K. Rowling
+4442,3371,Dave Eggers
+4476,1367127,Carlos Fuentes
+4536,25052,Brandon Mull
+4582,108424,Patrick Rothfuss
+4694,5300,Laura Ingalls Wilder
+4745,3956,Christopher Hitchens
+4765,28710,Dennis O'Neil
+4847,4826,Frances Mayes
+4859,3487324,Fiona Stafford
+4930,26372,Kathy Reichs
+4951,16024,Greg Bear
+4967,3927354,Anna Todd
+5073,28186,Anthony Doerr
+5100,2778055,Kurt Vonnegut Jr.
+5150,5754446,Voltaire
+5161,3190,F. Scott Fitzgerald
+5193,721,John Grisham
+5194,566,Paulo Coelho
+5195,7014936,Zoe Perry
+5240,5293,Robert Ludlum
+5367,15085,Frank Miller
+5396,3953,William Makepeace Thackeray
+5496,10003,Laurie Halse Anderson
+5522,6988,Bram Stoker
+5543,40593,Gabrielle Zevin
+5545,13957,Scott Westerfeld
+5636,12696,Jerry Spinelli
+5698,5152,Vladimir Nabokov
+5725,12898,Stephen Chbosky
+5728,15872,Rick Riordan
+5811,3095893,Stephanie Perkins
+5887,1973,Tracy Chevalier
+5942,6160,Sophie Kinsella
+5948,13661,Victor Hugo
+5952,819789,J.D. Salinger
+5954,829,Daniel Goleman
+5986,8546,Julie Powell
+5992,11291,Chimamanda Ngozi Adichie
+6041,11679,Elizabeth Gilbert
+6049,4785,Alexandre Dumas
+6081,1285555,Jose Saramago
+6107,137902,Richelle Mead
+6111,1201952,`y'D lqrny
+6223,432,Ayn Rand
+6237,7956,Mary Roach
+6239,6134,Arundhati Roy
+6240,871358,mSTf~ mHmwd
+6264,56224,Ally Carter
+6305,957894,Albert Camus
+6339,1406384,John Green
+6376,306,William Golding
+6403,61388,Tim Sale
+6409,3345,Joseph Conrad
+6492,3090,Helen Fielding
+6520,2041,Frances Hodgson Burnett
+6530,776,Michael   Lewis
+6589,4917067,Colleen McCullough
+6593,2751,Bret Easton Ellis
+6623,9355,Dean Koontz
+6627,344522,P.D. James
+6630,6569,Louis Sachar
+6635,4065222,Matthew    Ward
+6662,4261,Allen Ginsberg
+6703,941441,Stephenie Meyer
+6705,10746,Jim Butcher
+6719,15149526,Trevor Noah
+6788,2007,Daniel Defoe
+6819,5687,Irvine Welsh
+6824,2936493,Lauren Oliver
+6856,12605,Mario Puzo
+6871,348878,James Dashner
+6887,4174,Sherman Alexie
+6961,4763,John Scalzi
+6977,4260,Diana Wynne Jones
+7009,29919,John Berger
+7049,19823,Sylvia Day
+7075,10289,Dennis Lehane
+7106,1433597,Samuel Beckett
+7241,3619,Roger Zelazny
+7323,6900,Thomas Keneally
+7371,7125422,Jessie Burton
+7372,3380908,Pittacus Lore
+7376,2001717,Daphne du Maurier
+7426,1388082,Jostein Gaarder
+7457,10896,Eoin Colfer
+7545,3961,Alan Moore
+7546,55409,Brian Bolland
+7580,12470,Michael Connelly
+7648,8435,Norman Vincent Peale
+7652,805184,Jennifer E. Smith
+7657,138207,Deepak Chopra
+7789,1730,Umberto Eco
+7825,2687,Dan Simmons
+7840,1041311,Rene Goscinny
+7862,3490,Lauren Weisberger
+7864,3242,L. Frank Baum
+7960,4273,Roald Dahl
+7974,289513,Benjamin Franklin
+7987,3433047,Sarah J. Maas
+8067,10015,Kate Atkinson
+8086,7625163,Tim LaHaye
+8192,63116,Annie Barrows
+8236,15577045,Takeshi Obata
+8331,903,Homer
+8432,798,Steven D. Levitt
+8433,1928,Stephen J. Dubner
+8453,1413437,Elizabeth Gaskell
+8462,3892,Tom Clancy
+8578,6573436,Oreste del Buono
+8642,545,Neal Stephenson
+8643,16201,Niccolo Machiavelli
+8656,49,Johanna Spyri
+8721,7717,Richard Adams
+8739,12455,Thomas Harris
+8742,295178,Gayle Forman
+8830,3222554,Jonas Jonasson
+8926,6153502,Marina Keegan
+8939,5117,Art Spiegelman
+8978,2526,Libba Bray
+8980,4342215,Marie Lu
+9061,7577,Anne Rice
+9063,12667,Jess Walter
+9186,25355,Anthea Bell
+9237,1479015,'Hmd khld twfyq
+9301,2940640,Rebecca Skloot
+9396,4764,Philip K. Dick
+9479,383606,Robert Galbraith
+9485,4575289,Leigh Bardugo
+9685,435477,Shel Silverstein
+9808,4402,Miguel Ruiz
+9847,22393,Naomi Wolf
+9902,4820,Jeffrey Archer
+10040,13360,William L. Shirer
+10140,2617,Jonathan Safran Foer
+10420,8051,Chinua Achebe
+10444,1069006,C.S. Lewis
+10493,5835922,Naguib Mahfouz
+10494,4273240,njyb mHfwZ
+10559,600,Robert T. Kiyosaki
+10563,1986561,bwlw kwylw
+10571,4537214,Vanessa Diffenbaugh
+10774,978484,Lisa Genova
+11010,3500,Anna Quindlen
+11035,3873,Mikhail Bulgakov
+11039,2331,Mitch Albom
+11065,6125,Fannie Flagg
+11262,5237,Hunter S. Thompson
+11295,14176929,Margot Lee Shetterly
+11306,1373880,Kristin Cashore
+11338,61939,Mark Cotta Vaz
+11378,933665,Alice Schroeder
+11461,3960,David   Lloyd
+11472,4841825,Marion Zimmer Bradley
+11511,16965,Tony Moore
+11515,58,Frank Herbert
+11563,12817,Daron Acemoglu
+11566,12816,James A. Robinson
+11682,19564,Neal Shusterman
+11701,45592,Jennifer Niven
+11724,12425,Robert Kirkman
+11749,1318,Susan Beth Pfeffer
+11855,2493,Lois Lowry
+11939,4280,Kazuo Ishiguro
+11975,12793,Charles Darwin
+11984,8349,Christopher Paolini
+12009,11072,Daniel Keyes
+12096,6343,Milan Kundera
+12216,2546,Chuck Palahniuk
+12222,2994581,mHmd Sdq
+12237,1176324,mHmd `bd lrHmn l`ryfy
+12251,180439,John Tenniel
+12305,1429989,Richard Feynman
+12342,1742,Jack Kerouac
+12392,30916,Garth Williams
+12405,8719,Donna Tartt
+12443,14425604,B.A. Paris
+12454,3360355,Roxane Gay
+12527,3618,Philip Pullman
+12757,200317,Alyson Noel
+12856,29655,Rhonda Byrne
+12884,151371,Jenny Han
+12885,11664,David Levithan
+12887,4208569,Rainbow Rowell
+12995,399,Napoleon Hill
+12996,3317,Dale Carnegie
+13342,2384,Janet Evanovich
+13738,13677,Gail Carson Levine
+13742,1113469,Hermann Hesse
+13842,13898,P.D. Eastman
+13885,28995,David Mazzucchelli
+13886,821898,Richmond Lewis
+13889,5430144,Colleen Hoover
+13905,9533,Christopher Tolkien
+13926,3299,Salman Rushdie
+13984,25523,Pauline Baynes
+14097,690619,Lauren Groff
+14118,12398,Michael Tanner
+14298,72401,Daniel Kahneman
+14488,9322,Edward Albee
+14493,21246,Gretchen Rubin
+14525,3541,Barbara Kingsolver
+14526,4470653,S.J. Watson
+14655,608211,Robin A.H. Waterfield
+14681,1124,Anthony Bourdain
+14706,42102,Jean-Jacques Sempe
+14717,1467,Jeffrey Eugenides
+14744,1304470,Ally Condie
+14778,3105,Rosemary Wells
+14797,24556,Sara Gruen
+14983,4684322,Marissa Meyer
+15100,2499187,mHmd lmnsy qndyl
+15113,290189,Paula McLain
+15216,1624,Herman Melville
+15217,13229,Julia Cameron
+15230,3089156,Randall Munroe
+15322,8474721,Peter Thiel
+15411,7064545,Malala Yousafzai
+15412,241896,Christina Lamb
+15491,8788,Erich Fromm
+15514,150038,Cassandra Clare
+15536,14160478,Martha Hall Kelly
+15575,73149,Scott Lynch
+15736,7285,Ken Kesey
+15945,350,Patricia Schultz
+16010,3720,Anne Frank
+16039,5918,Elizabeth Kostova
+16041,322069,Liane Moriarty
+16118,155176,Wassily Kandinsky
+16159,7350402,Amy Poehler
+16248,1771,Sun Tzu
+16376,4859212,R.J. Palacio
+16471,7177350,M.R. Carey
+16815,2876763,Becca Fitzpatrick
+16962,55215,Junot Diaz
+17010,2826,James C. Collins
+17138,1278320,Shari Lapena
+17189,3279601,Hsn ljndy
+17218,8531101,Saud Alsanousi
+17349,3447,Ken Follett
+17378,1825,Harper Lee
+17464,146,Quentin Blake
+17644,44524,Brett Helquist
+17655,2121,Michael Pollan
+17688,5791,Max Brooks
+17705,1895943,Graeme Simsion
+17719,7074943,Victoria Aveyard
+17762,2565625,Reg Keeland
+17852,50060,Gregory Rabassa
+17988,3347,Frank McCourt
+18098,20357,Chelsea Handler
+18229,3046613,Ransom Riggs
+18278,24514,Brian K. Vaughan
+18279,304633,Fiona Staples
+18295,3489,Rebecca Wells
+18309,31712,Ernest Cline
+18420,5502079,Tsugumi Ohba
+18430,3670,Jhumpa Lahiri
+18473,26480,Nina Baym
+18511,11047,Masashi Kishimoto
+18568,704,Pearl S. Buck
+18641,3441,Terry Goodkind
+19065,4396935,'Hmd `bd lmjyd
+19069,3377941,Rick Yancey
+19092,3340,Spencer Johnson
+19145,138825,Tana French
+19195,15412,Jerry B. Jenkins
+19230,3617,Diana Gabaldon
+19425,18480,Clement Hurd
+19842,1005,Robert Fagles
+19843,280215,Bernard Knox
+19860,13004,Max Brod
+19995,3503,Maya Angelou
+20019,13370,Emily Giffin
+20024,6810,Wilson Rawls
+20034,7111,Walter Isaacson
+20349,8474323,Blake  Masters
+20398,14650,Paramahansa Yogananda
+20527,442240,Blake Crouch
+20605,7025,Gregory Maguire
+20772,63801,Jeremy Tambling
+20885,14144506,Sarah Andersen
+21069,34583,Vincent van Gogh
+21094,8203,James Redfield
+21389,27112,Richard Howard
+21482,630,Dan Brown
+21588,8249,Anne Bronte
+21698,602,Sharon L. Lechter
+21988,2622245,Lao Tzu
+22089,1421,Leonard Peikoff
+22406,10365,Dave McKean
+22428,42156,David Wenzel
+22450,3487,Aldous Huxley
+22647,5735,Anthony Burgess
+22693,1362751,Francis Chan
+22728,3911856,Jim Kay
+22804,4465322,Alaa Al Aswany
+22805,73947,`l l'swny
+23008,155021,Thomas Cleary
+23191,431149,Truman Capote
+23485,3075,John Irving
+23604,44926,David J. Skal
+24147,1002,Sophocles
+24299,6538289,David Mitchell
+24310,274533,Simone Elkeles
+24625,28709,Chuck Dixon
+24824,69007,Beatrice Sparks
+24950,194531,Garth Stein
+24960,788461,Dan Ariely
+24964,2973783,Alexandra Bracken
+25041,1831,Jonathan Swift
+25160,16560,Dan Chaon
+25785,39402,Patrick Suskind
+25819,2530,Anna Sewell
+25873,7105,Martin Gardner
+25928,2995873,Julie Kagawa
+25998,3064249,Tony Hsieh
+26141,1439,Malcolm Gladwell
+26150,11067,Deirdre Bair
+26415,395812,Yuval Noah Harari
+26666,54493,Kristin Hannah
+26730,61105,Dr. Seuss
+26858,52760,Frida Kahlo
+26861,264271,Sarah M. Lowe
+27202,1226095,Gia-Fu Feng
+27203,38289,Jane English
+27215,2985039,Austin Kleon
+27264,2782,Viktor E. Frankl
+27293,16759765,Thomas L. Friedman
+27294,10697,bell hooks
+27378,4230687,Ashwin Sanghi
+27428,61124,Chetan Bhagat
+27479,155717,Cheryl Strayed
+27618,11328,Joseph Frank
+27807,30913,Laura Hillenbrand
+27844,80760,Siobhan Dowd
+27850,1503841,ywsf zydn
+27879,5227163,Jesse Andrews
+28556,3505,Wally Lamb
+28646,157146,Christina Baker Kline
+28697,57983,Newt Scamander
+28830,4112157,Kenneth H. Blanchard
+29065,26242,Harriet Beecher Stowe
+29211,511298,Tony Goldwyn
+29381,7751,Tennessee Williams
+29440,6238,Marjane Satrapi
+29675,4417749,Megan Miranda
+29830,678030,Jeffrey Zaslow
+29854,1633682,'Hmd mrd
+30184,93353,Abraham Verghese
+30195,4660036,Huntley Fitzpatrick
+30254,2599,Edith Grossman
+30256,202782,Ellen Forney
+30460,104728,William Peter Blatty
+30540,428566,Carson Ellis
+30547,83846,Margery Williams Bianco
+30863,1599723,Michael  Grant
+30975,639,Lee Strobel
+31138,3032451,Siddhartha Mukherjee
+31209,2736801,`zldyn shkry fshyr
+31218,43605,Tony Tanner
+31220,176372,Madeline Miller
+31228,55118,Kenneth Branagh
+31242,217371,David Magarshack
+31469,49625,Jennifer Egan
+31923,5589647,Marie Kondo
+31991,60286,John E. Woods
+32058,2891513,krym lshdhly
+32881,4493,Eckhart Tolle
+32884,4489,Maurice Sendak
+33087,4941,Brian Sibley
+33113,238,Joan Didion
+33203,4343092,Amish Tripathi
+33539,8120,Arthur Miller
+33848,367338,Nelson Mandela
+34046,2895706,Kami Garcia
+34047,2895707,Margaret Stohl
+34181,713,Lisa See
+34204,6356,Barack Obama
+35098,393731,Cynthia D'Aprix Sweeney
+35111,9068,Sidney Sheldon
+35292,403,Beverly Cleary
+35437,5333595,Sheryl Sandberg
+35482,939363,Caitlin Moran
+35573,25840,Sherry Argov
+35618,2982266,Jandy Nelson
+35663,1739,Giovanni Pontiero
+36427,5627,Anthony Robbins
+36665,8316649,Zoe Sugg
+36896,2926065,Emma Cline
+37061,5755257,M.L. Stedman
+37465,173491,E. Lockhart
+37939,11672,Ned Vizzini
+38190,2858990,Basil Creighton
+38393,3275,Jeannette Walls
+38418,473421,Desmond Lee
+39328,6942,Pat Conroy
+39458,3357,Richard Pevear
+39459,3358,Larissa Volokhonsky
+39874,2327917,Betty  Smith
+39887,7392948,Mary Kubica
+39929,2737361,thrwt 'bZ@
+40167,133241,Bernie Wrightson
+40258,2927,Mary GrandPre
+40268,144405,Bisco Hatori
+40315,2749801,H.M. Parshley
+40325,196092,Patti Smith
+40344,10482,Jeff Lindsay
+40439,7353006,Nicola Yoon
+40479,1803294,Wladyslaw Szpilman
+40827,9057,Gaston Leroux
+41625,488758,Alan R. Clarke
+41778,1945379,Akira Watanabe
+42351,3158574,Simon Sinek
+42943,218843,William Landay
+43026,47672,Trenton Lee Stewart
+43143,215818,Nick Caistor
+43207,6953956,Erika Johansen
+43459,4101935,Susan Cain
+43462,45315,Justin Cronin
+43523,57990,Kennilworthy Whisp
+43644,569383,Barbara A. Mowat
+43645,8140,Paul Werstine
+43742,7935185,E. Nesbit
+44080,2838886,Hsn kml
+44346,498072,Audrey Niffenegger
+44432,2982291,mn~ lmrshwd
+44534,4418206,William   Nicholson
+44749,848,John Gray
+44817,2611,Eric Klinenberg
+44929,3963951,Nell Scovell
+45110,1194527,Mary Ann Shaffer
+45241,5365396,Hajime Isayama
+45301,15516,Erich Segal
+46322,1302285,Isaac Marion
+46684,69766,Roberto Gonzalez Echevarria
+46857,5744,Stuart Gilbert
+46942,401,Robert M. Pirsig
+46995,614,Arthur Golden
+47629,4086715,Kendare Blake
+48304,19753,Og Mandino
+48454,40882,Robert K. Massie
+48870,11081,Margaret Mitchell
+48955,3440476,Felicia Day
+49018,13007,Edwin Muir
+49019,13006,Willa Muir
+49597,33467,Jonathan Stroud
+49829,35796,Peter Washington
+50411,235013,Louise Maude
+50535,21559,Nassim Nicholas Taleb
+50833,57108,Gloria Steinem
+50899,256,Jared Diamond
+50941,5810891,Mahatma Gandhi
+51037,2867696,Piper Kerman
+51062,96150,Daniel H. Pink
+51340,2786093,Emily St. John Mandel
+51907,2778471,Hillary Rodham Clinton
+52169,60609,Eve Ensler
+53202,3095919,Kody Keplinger
+53371,13974,Mark Z. Danielewski
+53429,44566,Eleanor Roosevelt
+53542,167112,E.H. Gombrich
+54396,3849415,Deborah Harkness
+54548,3539,Rohinton Mistry
+54840,72099,Brian L. Weiss
+54856,68038,George Cruikshank
+56948,380,Eric Schlosser
+57192,3343082,Joshua Swanson
+57415,851957,njf drybndry
+58043,1203,Andy Warhol
+59211,3540,Janet Fitch
+59496,1109606,'Hlm mstGnmy
+59588,1589196,Mark Roskill
+59661,415985,Sidney Paget
+59778,58605,Maggie Nelson
+60243,21499,Howard C. Cutler
+60650,162578,Brene Brown
+60813,474490,Margaret Mauldon
+61095,40648,Ellen DeGeneres
+61209,51589,Chitra Banerjee Divakaruni
+61517,10029,Colson Whitehead
+62323,3246983,`bdllh lmGlwth
+62348,4475150,`mrw `bd lHmyd
+62571,5760641,Pham Van Thieu
+63177,904939,Terry Hayes
+63295,33907,Scott McCloud
+63329,37449,Lorenzo Carcaterra
+64007,5042201,John Tiffany
+64008,3439408,Jack Thorne
+64099,79589,Alex Flinn
+64493,3724,Miep Gies
+64494,3723,Alison Leslie Gold
+64890,219908,Brad Stone
+65368,4175328,Glennon Doyle Melton
+65658,6540057,Andy Weir
+65723,1127619,G. Norman Lippert
+65801,8002,John Grogan
+65995,4417406,Carlo Pagetti
+66049,60619,Jason Fried
+66062,1791,Seth Godin
+66149,810254,Aravind Adiga
+66465,54647,Malcolm Bowie
+66844,9685,Chris Van Allsburg
+66908,6464799,Jessica Knoll
+67441,9886128,rsln fSyHy
+67782,47586,R.J. Hollingdale
+70269,3888197,Shonda Rhimes
+71451,4370565,Erin Morgenstern
+71523,14031444,Paul Kalanithi
+73701,8253,Stevie Davies
+74828,5834109,shyryn hny'y
+74936,1039846,`bd lrHmn lkwkby
+75313,14532,George Saintsbury
+75454,655301,Lee Fahnestock
+76290,3162181,'thyr `bdllh lnshmy
+76827,901977,Clarissa Pinkola Estes
+79017,3407448,Ruta Sepetys
+79387,4841310,Benjamin Alire Saenz
+79662,70772,Nancy Bond
+79733,1086478,Cathy Hirano
+80124,880408,E.V. Rieu
+81136,4376,Susanna Kaysen
+81160,10837,David McDuff
+81297,8446,James Allen
+81557,306401,M.C. Escher
+81842,6571447,Hanya Yanagihara
+82941,275033,Anthony M. Esolen
+82983,7798,Thomas E. Connolly
+83229,4183574,Bryn Greenwood
+83430,7275,Helen Keller
+83730,5804248,W.W. Denslow
+83965,7341059,Sophia Amoruso
+84908,7333,Eugenio Montale
+86276,1984197,Rashmi Bansal
+86372,4502788,Rosalia Vazquez
+86468,3493507,Maria Buitoni Duca
+87214,2890837,khld ljbyly
+88600,1399188,J.E. Thomas
+89658,17940,Jacob Needleman
+90967,169609,Amanda Hopkinson
+92042,486329,Daniel James Brown
+92314,14152511,Twinkle Khanna
+92520,14623,Ralph Steadman
+93264,224319,Robin Buss
+94643,164692,Celeste Ng
+95379,2552821,yHy~ Hqy
+95728,5272674,Jenny  Lawson
+98278,72230,Aylmer Maude
+98302,261798,Tim Dolin
+98303,134559,Margaret R. Higonnet
+98361,1319502,Alexander Teixeira de Mattos
+99819,9802136,Aziz Ansari
+102286,1112683,'Hmd khyry l`mry
+102380,4449011,Alfred MacAdam
+102384,755,Benjamin Graham
+102457,7431,Ned Dameron
+102635,761595,Ashlee Vance
+102758,194416,Mindy Kaling
+104002,13599,Kate Egan
+104275,66349,Michael Henry Heim
+105179,323598,Alfred Birnbaum
+105193,4466615,nwr `bdlmjyd
+105210,206062,Steve Harvey
+105223,15815787,Mark Manson
+105427,5777662,Larry Sloman
+105648,2664359,tmr brhym
+105744,5808780,Rod Bradbury
+106757,2872571,Preeti Shenoy
+107673,178947,Peter Bart
+107730,68040,Adolph Caso
+108745,38301,Flora Rheta Schreiber
+109224,33795,Alastair McEwen
+109411,3162937,Gerald McCann
+109688,5201530,Charles Duhigg
+110340,986042,A.P.J. Abdul Kalam
+110488,492304,John Rutherford
+110749,45502,Craig Raine
+110945,1280155,Safiy al-Rahman al-Mubarakfuri
+113016,67629,Ramachandra Guha
+113154,3014566,Sheldon Drzka
+114018,77004,Winston Groom
+115950,42277,Rosemarie Morgan
+117687,34933,Jane Carruth
+117972,3367145,Chris Guillebeau
+120913,7370194,Shi Tian  sui
+121484,63906,Lewis Leary
+121565,800588,Ravinder Singh
+122624,5442759,Emily Seife
+122779,953641,khld lkhmysy
+122780,3158133,Khaled Al Khamissi
+123787,132676,Shiv Khera
+125372,209528,Richard Andrews
+126255,198144,Allen Mandelbaum
+126756,227267,Nicola Bradbury
+126830,1446295,shryf `rf@
+127559,1292893,khykhwws jhndry
+130215,40229,John Carey
+130498,150123,Sean Deming
+134963,2834,Jerry I. Porras
+136561,22653,John Seelye
+138643,2022,Guy Cardwell
+138644,21818,Tom Quirk
+140482,15109469,J.D. Vance
+140778,69641,Jen Sincero
+140786,263994,Josette Chicheportiche
+141047,61986,Richard Maxwell
+142041,28120,Rene Cloke
+142982,4469009,Lois P. Frankel
+145894,9445,Bob McCabe
+148660,4479191,Dom Marcos Barbosa
+148937,6984726,Allie Brosh
+149375,11022,Philip Horne
+151024,8655,Frank Warren
+152884,8656,T. Harv Eker
+154638,42158,John D. Rateliff
+154814,14168236,David Yoon
+156296,183563,Richard J. Dunn
+157190,287960,Randy Pausch
+157430,13771732,A.C. Bradley
+161746,6904185,Leman Sari
+163249,90805,Rainer Funk
+164641,6859221,mHmd lslm
+170164,6911075,Ibraheem Abbas
+170165,7075765,Yasser Bahjatt
+170795,13903,Andrew Delbanco
+172177,3043169,Mattias Ripa
+175674,61831,Jason Zweig
+175676,756,Warren Buffett
+178852,8262,Hayden Herrera
+181708,72229,Henry Gifford
+182175,3306075,Essam Youssef
+182421,26993,Maureen Howard
+183553,362983,James Kinsley
+183667,16378912,Margaret Oliphant
+183668,15258855,Walter A. Raleigh
+184115,1399901,Danae Yankoski
+184116,235311,Chris Tomlin
+188785,5008438,Paulette Moller
+190352,4938,Ted Nasmith
+190461,6543253,Douglas Smith
+192393,377462,Alan Myers
+193668,14545796,Tony Robbins
+194516,3416,Michael E. Gerber
+194730,1311839,mHmd lrTyn
+194951,3318236,Youssef Ziedan
+198471,1569475,`mr Thr
+202788,6447490,khwl@ Hmdy
+203019,26484,Deidre Shauna Lynch
+203101,7375,Melissa Bank
+204036,1873377,SlH jhyn
+204448,8473982,'Hmd khld mSTf~
+205023,3510,Billie Letts
+205212,2955,Anthony Kiedis
+209399,8075577,Rupi Kaur
+217427,28273,Nina Auerbach
+218787,1460,Mark Overstall
+220254,69185,Bruce Brooks Pfeiffer
+220304,2904624,Arnold J. Pomerans
+223117,7734136,brhym `bs
+229844,192322,Toinette Lippe
+231592,206835,Alan Shelston
+235593,5274234,Carol Rifka Brunt
+235888,270160,Catherine Belsey
+242266,2993185,Ahlam Mosteghanemi
+245911,160932,Robert B. Cialdini
+248352,5358171,Melina Karakosta
+248855,8463,Hilda Rosner
+249694,6456394,Phaidon Press
+250384,581557,Siobhan Curham
+251187,7945,Anna Brailovsky
+252993,29004,Robert Mighall
+254690,2772778,Christopher Bigsby
+258212,14877156,Albus Dumbledore
+259449,7012565,Lang Leav
+259983,6783,Peter D. Kramer
+264764,579496,Charles E. Wilbour
+265097,435522,Ahmed H. Zewail
+265098,1013808,'Hmd zwyl
+266411,95279,Ronald de Leeuw
+266695,8022624,slTn mws~ lmws~
+268227,62561,Rex Gibson
+278875,428923,Jonah Lehrer
+282985,1302004,'Hmd lshqyry
+291840,6906496,Brandon Stanton
+295789,5778057,Susannah Cahalan
+297945,120257,Robert Thompson
+299925,28811,Banksy
+301731,4603829,s`wd lsn`wsy
+305095,23587,David Heinemeier Hansson
+311389,16019981,Ahmed Khaled Towfik
+312050,4385839,Tina Fey
+313483,861030,Anthony R. Ferris
+317565,293115,Montserrat Mira
+317843,88934,Raquel Jaramillo
+319954,444488,Norman MacAfee
+320783,40588,Amy Mandelker
+321244,2898684,jwd Sydwy
+336142,14660239,Frederic Mugler
+336884,6543494,Rozita Sokou
+346076,920654,Sven Christer Swahn
+357838,4698951,ysr Hrb
+366026,260074,Rufus Goodwin
+366027,807652,Benjamin Martinez
+377166,619471,Girolamo De Michele
+384024,488518,Frederick L. Covan
+389729,5029628,jbryyl jrsy mrkyz
+398616,9321,Ros Ballaster
+401044,3407560,khld lbtly
+402680,320473,Robert DeMaria Jr.
+405139,5754828,'Hmd Hlmy
+408154,4840538,Saulius Dagys
+409882,527779,Shannon Russell
+424962,752721,Ronald Holt
+429204,3009628,'Hmd l`syly
+435442,6427444,'Hmd s`dwy
+447738,5013252,`mrw slm@
+452839,2975831,Walter J. Cobb
+499151,5262,Priscilla Meyer
+503107,8988830,Ben Holden-Crowther
+524331,4720520,Lidia Zazo
+534460,15421047,dkhtr Hsyn n`ymy
+544477,5131255,mHmd lHj khlyl
+553508,2893451,shml 'bZ@
+568181,23663,Gail Kern Paster
+579809,3057900,Diana Burgin
+579810,9667,Katherine Tiernan O'Connor
+579811,40254,Ellendea Proffer
+593419,2586822,Katy Bridges
+601275,7085697,Cao Chi
+638164,1287453,megu kiyabotsuto
+651313,16347186,Robert           Jackson
+654553,16347169,Robert          Jackson
+679606,3870718,Richard Nemesvari
+690400,9829661,Angelo  Rinaldi
+729600,15053448,Gunilla Leining
+785549,15814604,frnkh m`nwy
+802701,14116317,B.M. Mooyaart-Doubleday
